@@ -1,5 +1,4 @@
-# PrepInsta_DA_Course
-Data Analysis with Excel :
+# Data Analysis with Excel :
 1.Introduction Pivot Tables 
 2.Functions in Excel 
 3.XLOOKUP
